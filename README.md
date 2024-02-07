@@ -3,7 +3,7 @@
 <table style="text-align:center;">
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaS&layout=compact&show_icons=true&theme=github_dark_dimmed&bg_color=00000000,00000000,01010100,00000000,00000000&card_width=500&size_weight=0.5&count_weight=0.5&langs_count=20"/></td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaS&layout=compact&show_icons=true&theme=github_dark_dimmed&bg_color=00000000,00000000,01010100,00000000,00000000&card_width=500&size_weight=0.5&count_weight=0.5&langs_count=5"/></td>
     <td align="center" colspan="2">
 <!--       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mahefa-MaS&theme=transparent" />
       <img src="https://streak-stats.demolab.com?user=Mahefa-MaS&theme=transparent" />  -->
