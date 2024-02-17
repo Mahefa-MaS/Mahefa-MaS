@@ -42,7 +42,6 @@
 </a>
 
 <!-- SKILLS -->
-  
 <p align="center">
   <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
   <img alt='Django' src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white'/>
@@ -61,13 +60,11 @@
  </p>
 
  <!-- Linux Typing -->
-
 <p align="center" style="background: #1c1c1c;">  
   <img src="https://readme-typing-svg.herokuapp.com?font=product+sans&amp;color=06ACBD&amp;center=true&amp;lines=%24%20sudo%20apt%20install%20brain&amp;duration=6000">
 </p>
 
 <!-- Visitor -->
-
 <p align="right">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=Mahefa-MaS&repo=mattnix4&countColor=%2308E8FF"/>
 </p>
